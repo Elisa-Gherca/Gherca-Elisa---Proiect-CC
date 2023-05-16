@@ -12,6 +12,7 @@ Aplicatia are o interfata simpla si intuitiva, cu optiuni usor de utilizat, care
 Aplicatia ruleaza pe link-ul: 
 https://gherca-elisa-proiect-cc-j36f-6ox2rhug0-elisa-gherca.vercel.app/
 
+
 Link prezentare aplicatie: 
 https://www.youtube.com/watch?v=PrlbrGo64Ls&ab_channel=ElisaGherca
 
