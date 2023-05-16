@@ -16,6 +16,9 @@ https://gherca-elisa-proiect-cc-j36f-6ox2rhug0-elisa-gherca.vercel.app/
 Link prezentare aplicatie: 
 https://www.youtube.com/watch?v=PrlbrGo64Ls&ab_channel=ElisaGherca
 
+Link GitHub: 
+https://github.com/Elisa-Gherca/Gherca-Elisa---Proiect-CC
+
 ## Descriere API
 
 Pentru implementarea aplicatiei am utilizat urmatoarele API-uri:
